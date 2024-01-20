@@ -1,10 +1,14 @@
+
 🖐Hi. I´m Javier Barrera
 
 💫 About Me:
-🔭 I´m passionate about technology and innovation
-👯 I’m looking to collaborate with other developers and engineers software
-🌱 I’m currently learning .NET and Java Stack
+
+
+🔭 I´m passionate about technology and innovation<br>
+👯 I’m looking to collaborate with other developers and engineers software<br>
+🌱 I’m currently learning .NET and Java Stack<br>
 💬 Ask me about .NET
+
 
 Contact me: javierbarrera861@gmail.com
 
